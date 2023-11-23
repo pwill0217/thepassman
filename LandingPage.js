@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Button, Image } from 'react-bootstrap';
-import logo from '../thisbro2.png'; // Replace with the actual path to your logo
+import logo from '../you-rpath'; // Replace with the actual path to your logo
 
 const LandingPage = () => {
   return (
