@@ -1,7 +1,7 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
-import Logo from '../thisbro2.png'; // Replace with the actual path to your logo
+import Logo from '../your-path'; // Replace with the actual path to your logo
 
 const NavigationBar = () => {
   return (
